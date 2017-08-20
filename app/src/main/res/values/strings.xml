@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Fat Burner</string>
+    <string name="help_dialog_content">
+        <![CDATA[
+            <html>
+                <h2>Help</h2>
+                <h3>How do I use this?</h3>
+                <ol>
+                    <li>Target your food (or beverage of course!) with your camera</li>
+                    <li>Hold the "Burn the fat" button at the bottom</li>
+                    <li>Finally eat and drink without remorse!</li>
+                </ol>
+                <h3>How does it work?</h3>
+                <p>
+                    We harness advanced flash frequency modulation (FFM) techniques (based on
+                    current research from the 평양과학기술대학 (Pyongyang University of Science and
+                    Technology)) to break down triglycerides in your food.
+                </p>
+                <p>
+                    Using this method, we can effectively reduce the absorbable fat in your food by
+                    up to 20%.
+                </p>
+            </html>
+        ]]>
+    </string>
+    <string name="licenses_dialog_content">
+        <![CDATA[
+            <html>
+                <h2>Licenses</h2>
+                <p>
+                    All code available @ <a href="https://">github/</a>.
+                </p>
+                &copy; 2017 WiCo Health Supplements Inc.
+            </html>
+        ]]>
+    </string>
+</resources>

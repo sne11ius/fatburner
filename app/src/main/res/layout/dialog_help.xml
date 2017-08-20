@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:id="@+id/licensesButon"
+        android:layout_width="30sp"
+        android:layout_height="30sp"
+        android:layout_gravity="right"
+        android:padding="5sp"
+        android:text="&#169;" />
+    <TextView
+        android:id="@+id/helpText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="7sp"/>
+
+    <Button
+        android:id="@+id/closeHelpButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Got it!"/>
+</LinearLayout>
